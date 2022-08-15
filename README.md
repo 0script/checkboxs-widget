@@ -1,32 +1,27 @@
-#project-name
+#checkboxs-widget
 
 ##Table of content
 
 * [About the project](#about-the-project)
 * [Technologies](#technologies)
-* [Features](#features)
 * [Setup](#setup)
 
 ##About the project
 
-Small description about the project
+Checkbox with a logic .
 
 ##Technologies
 
-* tech1
-* tech2
-* tech3
-
-##Features
-
-* feature 1
-* feature 2
+* HTML
+* CSS
+* JAVASCRIPT
 
 ##Setup
 
-* setup description :
-
 ```shell
-#setup shell cmd
-$git clone git@github...
+#download the project
+$git clone https://github.com/0script/checkboxs-widget
+#open index file in your browser
+$cd checkboxs-widget
+$nohup firefox index.html &
 ```
